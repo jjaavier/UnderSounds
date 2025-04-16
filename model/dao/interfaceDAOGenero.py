@@ -4,5 +4,5 @@ from typing import List, Optional
 class InterfaceDAOGenero(ABC):
 
     @abstractmethod
-    def get_genre(self):
+    def get_generos(self):
         pass

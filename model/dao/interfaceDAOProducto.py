@@ -4,5 +4,5 @@ from typing import List, Optional
 class InterfaceDAOProducto(ABC):
 
     @abstractmethod
-    def get_products(self):
+    def get_productos(self):
         pass
